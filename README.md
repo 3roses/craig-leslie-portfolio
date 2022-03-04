@@ -10,7 +10,7 @@ Whether you are viewing on a desktop or a mobile device, it should be a smooth a
 
 ## Screenshot of webpage
 
-![Screenshot of final webpage.](./assets/portfolio_screenshot.png)
+![Screenshot of final webpage.](./assets/final_page.png)
 
 ## Link to final page
 
